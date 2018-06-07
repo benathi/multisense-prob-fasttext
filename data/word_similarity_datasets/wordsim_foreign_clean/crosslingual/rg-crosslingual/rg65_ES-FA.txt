@@ -1,0 +1,122 @@
+gallo	سفر	0.06
+almohada	کوسن	3.31
+cementerio	ماهور	0.625
+asilo	میوه	0.105
+caldera	میوه	0.105
+grúa	ابزار	1.48
+cojín	بالش	3.31
+sonrisa	ابزار	0.04
+orilla	بیشه زار	0.96
+trayecto	سفر	3.4
+hechicero	خودرو	0.0
+pájaro	درنا	2.875
+orilla	امضا	0.04
+costa	تپه	1.29
+pájaro	بیشه زار	1.73
+pollo	خروس 	3.52
+cuerda	ریسمان	3.585
+comida	میوه	2.67
+fruta	کوره	0.105
+esclavo	بنده	3.5
+cordel	لبخند	0.0
+estufa	ماهور	0.04
+monje	پیشگو	1.145
+cementerio	پناهندگی	0.605
+chico	پسربچه	3.525
+gallo	پسر	0.48
+gallo	خروس	3.52
+gallo	پرنده	2.605
+mago	جادوگر	3.27
+viaje	ساحل	0.98
+loma	ساحل	1.19
+sonrisa	پسربچه	0.685
+gallo	درنا	2.045
+fruta	غذا	2.67
+viaje	خروس	0.06
+gallo	غذا	1.27
+cojín	جواهر	0.27
+chico	خروس	0.48
+cementerio	بیشه زار	0.645
+caldera	ابزار	1.0
+cementerio	گورستان	4.0
+grulla	پرنده	2.875
+bosque	جنگل 	3.19
+oráculo	راهب	1.145
+cordel	نخ	3.585
+joya	شیشه	1.625
+viaje	ماشین	1.71
+orilla	ساحل دریا	3.435
+selva	قبرستان	0.44
+colina	ساحل دریا	1.29
+chaval	پسر	3.525
+siervo	برده	3.5
+hechicero	شعبده باز	3.27
+chico	حکیم	0.75
+vaso	لیوان	3.625
+colina	بیشه زار	1.75
+viaje	سیاحت	3.4
+costa	جنگل	1.19
+hermano	راهب	1.335
+cristal	جواهر	1.625
+instrumento	پوزخند	0.04
+selva	بیشه زار	3.19
+automóvil	جادوگر	0.0
+coche	سیاحت	1.71
+asilo	راهب	0.315
+loma	اجاق	0.04
+cementerio	تیمارستان	0.79
+orilla	ماهور	1.19
+mediodía	ظهر	3.875
+automóvil	ماشین	3.9
+loma	تپه	3.46
+mago	پیشگو	2.46
+pájaro	خروس	2.605
+vaso	شعبده باز	0.205
+cojín	خودرو	0.435
+firma	امضا	3.73
+instrumento	آلت	3.4
+fruta	پناهندگی	0.105
+orilla	سفر	0.98
+joya	کوسن	0.27
+cuerda	ظهر	0.0
+sabio	پسر	0.75
+bosque	گورستان	0.645
+oráculo	شعبده باز	2.46
+comida	خروس	1.27
+mediodía	نیم روز	3.875
+bosque	پرنده	1.73
+herramienta	ابزار	3.4
+costa	ساحل	3.435
+automóvil	کوسن	0.435
+recipiente	لیوان	3.625
+colina	ماهور	3.46
+monje	برادر	1.335
+autógrafo	امضا	3.73
+estufa	کوره	3.06
+autógrafo	ساحل	0.04
+bosque	ساحل دریا	1.19
+chaval	پوزخند	0.685
+caldera	اجاق	3.06
+mediodía	نخ	0.0
+manicomio	قبرستان	0.79
+grulla	خروس	2.045
+monje	برده	0.56
+asilo	گورستان	0.605
+chaval	برادر	1.46
+cementerio	جنگل	0.44
+monje	پناهندگی	0.315
+chaval	جادوگر	0.315
+gema	جواهر	3.435
+instrumento	کوره	1.0
+mago	شیشه	0.205
+esclavo	راهب	0.56
+sonrisa	ریسمان	0.0
+hechicero	پسر بچه	0.315
+hermano	پسربچه	1.46
+coche	خودرو	3.9
+instrumento	جرثقیل	1.48
+bosque	ساحل	0.96
+joya	گوهر	3.435
+loma	گورستان	0.625
+bosque	تپه	1.75
+cementerio	قبرستان 	4.0

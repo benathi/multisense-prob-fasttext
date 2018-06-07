@@ -1,0 +1,122 @@
+bursche	پوزخند	0.58
+berg	بیشه زار	1.79
+obst	پناهندگی	0.02
+gorst	قبرستان	0.48
+magier	شعبده باز	3.645
+vogel	بیشه زار	1.71
+hahn	پرنده	3.0725
+wald	ساحل	1.25
+backofen	اجاق	3.25
+kissen	کوسن	3.23
+becher	لیوان	3.625
+berg	تپه	3.315
+nahrung	میوه	2.855
+berg	اجاق	0.0
+magier	خودرو	0.02
+wald	جنگل 	3.46
+hahn	غذا	1.44
+fabel	پیشگو	1.21
+schnur	نخ	3.44
+forst	بیشه زار	3.46
+leibeigener	برده	3.625
+irrenhaus	گورستان	0.395
+unterschrift	امضا	3.77
+wald	پرنده	1.71
+friedhof	تیمارستان	0.73
+werkzeug	کوره	1.0
+autogramm	ساحل	0.06
+bursche	برادر	1.54
+junge	پسربچه	3.46
+juwel	گوهر	3.705
+zauberer	جادوگر	3.645
+schnur	ظهر	0.02
+seil	لبخند	0.0
+mönch	پیشگو	0.77
+zauberer	پیشگو	2.17
+irrenhaus	میوه	0.02
+junge	حکیم	0.545
+junge	خروس	0.48
+friedhof	قبرستان 	3.5
+berg	ساحل	1.44
+seil	ریسمان	3.44
+kraftfahrzeug	ماشین	3.835
+küste	جنگل	1.145
+hügel	ساحل دریا	1.165
+reise	خروس	0.04
+polster	خودرو	0.915
+hahn	سفر	0.04
+werkzeug	پوزخند	0.0
+ufer	ساحل دریا	3.75
+herd	ماهور	0.0
+lächeln	ریسمان	0.0
+bruder	پسربچه	1.54
+edelstein	جواهر	3.705
+grinsen	لبخند	3.15
+küste	ساحل	3.75
+küste	امضا	0.06
+mittag	ظهر	3.645
+irrenhaus	راهب	0.23
+mönch	برده	0.58
+hahn	پسر	0.48
+auto	خودرو	3.835
+werkzeug	جرثقیل	1.835
+gerät	آلت	3.335
+reise	سیاحت	3.46
+grinsen	ابزار	0.0
+zauberer	شیشه	0.455
+kirchhof	گورستان	3.5
+herd	کوره	3.25
+ufer	تپه	1.165
+magier	پسر بچه	0.415
+obst	کوره	0.46
+mittagsstunde	نیم روز	3.645
+vogel	خروس 	4.0
+glas	جواهر	1.185
+fabel	جادوگر	1.31
+friedhof	ماهور	0.71
+hahn	درنا	2.065
+kraftfahrzeug	جادوگر	0.02
+bursche	جادوگر	0.415
+kirchhof	جنگل	0.48
+mönch	پناهندگی	0.23
+ufer	بیشه زار	1.25
+nahrung	خروس	1.44
+obst	غذا	2.855
+glas	شعبده باز	0.455
+glas	لیوان	3.625
+forst	ساحل دریا	1.145
+psychiatrie	قبرستان	0.73
+juwel	شیشه	1.185
+küste	ماهور	1.44
+mittag	نخ	0.02
+lächeln	پوزخند	3.15
+autogramm	امضا	3.77
+fahrt	سفر	3.46
+wald	گورستان	0.73
+backofen	میوه	0.46
+hügel	ماهور	3.315
+orakel	شعبده باز	2.17
+polster	بالش	3.23
+hügel	گورستان	0.71
+küste	سفر	1.375
+polster	جواهر	0.375
+magier	حکیم	1.31
+friedhof	بیشه زار	0.73
+backofen	ابزار	1.0
+juwel	کوسن	0.375
+sklave	بنده	3.625
+gockel	خروس	2.96
+auto	کوسن	0.915
+fabel	پسر	0.545
+orakel	راهب	0.77
+orakel	حکیم	1.21
+wald	تپه	1.79
+vogel	درنا	3.185
+werkzeug	ابزار	3.335
+kranich	خروس	3.0325
+reise	ساحل	1.375
+sklave	راهب	0.58
+friedhof	پناهندگی	0.395
+grinsen	پسربچه	0.58
+kran	ابزار	1.835
+bursche	پسر	3.46

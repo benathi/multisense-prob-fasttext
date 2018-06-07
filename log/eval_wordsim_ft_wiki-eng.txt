@@ -1,0 +1,16 @@
+Basename to evaluate = modelfiles/wiki.en
+Cache subword
+wordrep = ['sub']
+Result DataFrame
+   Dataset  modelfiles/wiki.en-sub
+0       SL               38.033168
+1       WS               73.880820
+2     WS-S               78.111959
+3     WS-R               68.201896
+4      MEN               76.367311
+5       MC               81.197154
+6       RG               79.983827
+7       YP               53.327914
+8   MT-287               67.934178
+9   MT-771               66.892286
+10      RW               48.092870

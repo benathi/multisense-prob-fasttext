@@ -1,0 +1,122 @@
+galo	سفر	0.11
+costa	امضا	0.28
+floresta	بیشه زار	3.465
+carro	سیاحت	1.53
+servo	برده	3.5
+galo	پسر	0.795
+assinatura	امضا	3.82
+autógrafo	امضا	3.82
+cordão	لبخند	0.13
+costa	سفر	1.445
+instrumento	آلت	3.655
+risada	لبخند	3.28
+almoço	نیم روز	3.485
+litoral	جنگل	1.365
+cemitério	گورستان	4.0
+monte	اجاق	0.13
+cemitério	قبرستان 	4.0
+cemitério	بیشه زار	0.75
+fogão	کوره	3.38
+jornada	سفر	3.655
+automóvel	ماشین	3.9
+escravo	بنده	3.5
+sensato	پیشگو	1.175
+almoço	نخ	0.11
+meio-dia	ظهر	3.485
+manicômio	گورستان	0.81
+pássaro	درنا	2.665
+menino	حکیم	0.895
+menino	خروس	0.795
+fruta	کوره	0.46
+cemitério	تیمارستان	1.11
+costa	بیشه زار	1.175
+irmão	پسربچه	1.96
+almofada	خودرو	0.68
+forno	میوه	0.46
+ferramenta	ابزار	3.655
+menino	پسربچه	3.355
+costa	ساحل دریا	3.785
+fruta	غذا	2.87
+monge	برده	0.74
+barbante	ظهر	0.11
+manicômio	میوه	0.12
+costa	ماهور	1.195
+sorriso	ریسمان	0.13
+litoral	ساحل	3.785
+viagem	خروس	0.11
+bosque	جنگل 	3.465
+forno	ابزار	1.12
+carro	خودرو	3.9
+viagem	سیاحت	3.655
+oráculo	راهب	1.38
+monge	پیشگو	1.38
+monte	ساحل	1.195
+cálice	شعبده باز	0.795
+escravo	راهب	0.74
+rapaz	پسر	3.355
+fogão	ماهور	0.13
+travesseiro	کوسن	3.355
+irmão	راهب	1.38
+automóvel	جادوگر	0.14
+cemitério	ماهور	0.69
+sorriso	پوزخند	3.28
+sensato	جادوگر	0.96
+bosque	ساحل	1.175
+galo	پرنده	2.665
+galo	خروس	4.0
+bijuteria	کوسن	0.57
+bijuteria	شیشه	0.975
+colina	بیشه زار	1.735
+rapaz	پوزخند	0.82
+instrumento	پوزخند	0.35
+litoral	تپه	1.26
+cemitério	پناهندگی	0.81
+jornada	ماشین	1.53
+monte	گورستان	0.69
+galo	خروس 	4.0
+rapaz	برادر	1.96
+bruxo	خودرو	0.14
+floresta	قبرستان	0.69
+manicômio	راهب	0.425
+galo	غذا	1.19
+hospício	قبرستان	1.11
+fruta	پناهندگی	0.12
+risada	ابزار	0.35
+automóvel	کوسن	0.68
+monge	پناهندگی	0.425
+bosque	گورستان	0.75
+oráculo	شعبده باز	2.355
+comida	خروس	1.19
+colina	ساحل دریا	1.26
+mágico	شیشه	0.795
+bosque	پرنده	1.885
+bruxo	شعبده باز	3.365
+oráculo	حکیم	1.175
+colina	ماهور	3.365
+almofada	جواهر	0.57
+forno	اجاق	3.38
+cálice	لیوان	3.89
+cordão	نخ	3.67
+autógrafo	ساحل	0.28
+comida	میوه	2.87
+taça	لیوان	3.89
+sensato	پسر	0.895
+barbante	ریسمان	3.67
+cálice	جواهر	0.975
+pássaro	بیشه زار	1.885
+almofada	بالش	3.355
+risada	پسربچه	0.82
+bruxo	حکیم	0.96
+mágico	جادوگر	3.365
+instrumento	کوره	1.12
+mágico	پیشگو	2.355
+bijuteria	گوهر	3.46
+instrumento	جرثقیل	1.855
+cemitério	جنگل	0.69
+viagem	ساحل	1.445
+bosque	تپه	1.735
+monge	برادر	1.38
+jóia	جواهر	3.46
+grua	ابزار	1.855
+floresta	ساحل دریا	1.365
+monte	تپه	3.365

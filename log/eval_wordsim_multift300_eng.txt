@@ -1,0 +1,1 @@
+Basename to evaluate = modelfiles/mv-wacky_e10_d300_vs2e-4_lr1e-5_mar1

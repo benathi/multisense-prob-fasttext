@@ -1,0 +1,17 @@
+Basename to evaluate = modelfiles/multi_text8_e10_d300_vs2e-4_lr1e-5_margin1
+Cache subword
+Cache subword2
+No Caching of Multi Rep - subword_emb_multi[:,1] uses dictionary level directly
+df =
+   Dataset        sub       sub2  sub-maxsim
+0       SL  26.746543  10.859781   27.699946
+1       WS  65.720245  34.064534   66.638705
+2     WS-S  70.978888  36.393886   70.474031
+3     WS-R  62.104036  34.294508   60.655725
+4      MEN  63.523683  34.983555   68.341550
+5       MC  57.521141  37.650201   66.266134
+6       RG  57.971173  50.623423   58.956847
+7       YP  33.104499  10.518915   38.473373
+8   MT-287  65.407845  45.664255   70.200717
+9   MT-771  52.972120  33.979479   56.735716
+10      RW  36.954597   3.707983   33.639994

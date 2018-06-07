@@ -1,0 +1,120 @@
+mound	اجاق	0.07
+furnace	اجاق	3.095
+implement	جرثقیل	2.04
+coast	ساحل	3.715
+cemetery	پناهندگی	0.625
+shore	امضا	0.07
+car	خودرو	3.9
+slave	راهب	0.575
+woodland	پرنده	1.515
+asylum	راهب	0.3
+shore	بیشه زار	1.055
+rooster	درنا	1.665
+forest	بیشه زار	3.41
+cushion	بالش	3.585
+string	ریسمان	3.455
+grin	لبخند	3.19
+forest	قبرستان	0.75
+tool	ابزار	3.665
+slave	بنده	3.44
+automobile	کوسن	0.775
+coast	جنگل	1.03
+voyage	ساحل	1.255
+woodland	ساحل	1.055
+car	سیاحت	1.525
+lad	پسر	3.475
+rooster	خروس	3.84
+bird	بیشه زار	1.515
+furnace	میوه	0.025
+magician	جادوگر	3.27
+bird	خروس	2.69
+woodland	تپه	1.655
+noon	نخ	0.02
+monk	پیشگو	0.955
+automobile	ماشین	3.9
+crane	ابزار	2.04
+woodland	جنگل 	3.41
+crane	خروس	1.665
+crane	پرنده	2.755
+glass	جواهر	1.535
+asylum	میوه	0.095
+autograph	امضا	3.795
+food	میوه	2.555
+cord	لبخند	0.01
+voyage	خروس	0.06
+jewel	شیشه	1.535
+magician	شیشه	0.385
+cord	نخ	3.455
+glass	شعبده باز	0.385
+coast	تپه	1.17
+cemetery	بیشه زار	0.84
+woodland	گورستان	0.84
+fruit	پناهندگی	0.095
+noon	نیم روز	3.845
+bird	درنا	2.755
+mound	ساحل	1.07
+signature	امضا	3.795
+hill	بیشه زار	1.655
+cock	خروس 	3.84
+shore	سفر	1.255
+boy	حکیم	0.835
+cemetery	قبرستان 	3.94
+monk	برده	0.575
+implement	کوره	1.165
+cushion	خودرو	0.775
+furnace	ابزار	1.165
+implement	پوزخند	0.09
+food	خروس	1.045
+midday	ظهر	3.845
+stove	کوره	3.095
+fruit	کوره	0.025
+journey	سفر	3.625
+shore	ماهور	1.07
+graveyard	تیمارستان	0.75
+smile	پوزخند	3.19
+brother	پسربچه	1.955
+wizard	پسر بچه	0.62
+voyage	سیاحت	3.625
+tumbler	لیوان	3.725
+wizard	خودرو	0.055
+rooster	غذا	1.045
+rooster	پسر	0.555
+oracle	راهب	0.955
+stove	ماهور	0.07
+magician	پیشگو	2.225
+hill	ماهور	3.23
+string	ظهر	0.02
+gem	جواهر	3.76
+sage	پسر	0.835
+smile	ریسمان	0.01
+boy	خروس	0.555
+pillow	کوسن	3.585
+oracle	شعبده باز	2.225
+lad	پوزخند	0.73
+lad	جادوگر	0.62
+glass	لیوان	3.725
+implement	آلت	3.665
+shore	ساحل دریا	3.715
+cock	پرنده	2.69
+asylum	گورستان	0.625
+autograph	ساحل	0.07
+fruit	غذا	2.555
+hill	ساحل دریا	1.17
+automobile	جادوگر	0.055
+serf	برده	3.44
+monk	پناهندگی	0.3
+rooster	سفر	0.06
+graveyard	گورستان	3.94
+journey	ماشین	1.525
+jewel	گوهر	3.76
+boy	پسربچه	3.475
+forest	ساحل دریا	1.03
+grin	پسربچه	0.73
+madhouse	قبرستان	0.75
+cushion	جواهر	0.455
+grin	ابزار	0.09
+graveyard	جنگل	0.75
+wizard	شعبده باز	3.27
+lad	برادر	1.955
+mound	تپه	3.23
+jewel	کوسن	0.455
